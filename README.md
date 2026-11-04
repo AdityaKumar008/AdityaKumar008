@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=34d399)](https://aditya-portfolio-five-nu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=34d399)](https://linkedin.com/in/aditya-kumar-b7920b328)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=34d399)](https://leetcode.com/u/Calamity_X/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=34d399)](mailto:008kumaraditya@gmail.com)
 
 </div>
 
